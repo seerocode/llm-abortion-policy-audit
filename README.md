@@ -1,7 +1,7 @@
 # Abortion Policy LLM Audit (Response Data)
 
 This repository contains LLM response data collected for [Auditing LLM Responses in a Complex Policy Landscape: Abortion
-Law in the United States](https://doi.org/10.1145/3805689.3806451). 
+Law in the United States](https://doi.org/10.1145/3805689.3806451). For any questions, please contact the first author at rone [at] seas [dot] upenn [dot] edu.
 
 
 ## Data
